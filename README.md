@@ -34,7 +34,7 @@ Clone the project
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot]([https://via.placeholder.com/468x300?text=App+Screenshot+Here](https://media.discordapp.net/attachments/1082851514382569473/1333467211297456272/image.png?ex=6798ff9d&is=6797ae1d&hm=4156d34c15598aaf886352a8c75c3913a39ea84bded155b846fd10097d3a4c9a&=&format=webp&quality=lossless&width=1152&height=648))
 
 
 ## Support
