@@ -1,6 +1,6 @@
-# HTML/CSS/JS Learning Journey
 
-Welcome to my learning journey repository! I'm currently learning HTML, CSS, and JavaScript at Lumbini ICT Campus.
+## HTML/CSS/JS Learning Journey
+🎉Welcome to my learning journey repository! I'm currently learning HTML, CSS, and JavaScript at Lumbini ICT Campus. ⭐
 
 ## Mentor
 **Arun Pandey Laudari**
@@ -8,26 +8,44 @@ Welcome to my learning journey repository! I'm currently learning HTML, CSS, and
 ## About This Repository
 This repository documents my progress and projects as I learn web development. It includes assignments, projects, and resources that I've found helpful.
 
-## Projects
 
-### Project 1: Basic HTML Structure
-- Description: A simple HTML page to practice basic tags and elements.
 
-### Project 2: CSS Styling
-- Description: Adding styles to an HTML page using CSS.
 
-### Project 3: Interactive JavaScript
-- Description: Adding interactivity to a web page using JavaScript.
 
-## Resources
-Here are some resources that I've found useful:
-- [MDN Web Docs](https://developer.mozilla.org/)
-- [W3Schools](https://www.w3schools.com/)
-- [FreeCodeCamp](https://www.freecodecamp.org/)
 
-## Contact
-Feel free to reach out to me for collaboration or if you have any questions:
-- **Email:** anuzdhakal@outlook.com
-- **GitHub:** https://github.com/anuz-net
+![Logo](https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-devextreme-multi-purpose-controls-html-javascript-3.png)
 
----
+
+## Related
+
+Here are some related projects
+
+
+
+## Run Locally
+
+Clone the project
+
+```bash
+  git clone 
+```
+
+
+
+## Screenshots
+
+![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+
+
+## Support
+
+For support, email anuzdhakal@outlook.com or join our Slack channel.
+
+
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://behance.com/anuzx)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/anuzdhakal)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/@anujdhakal21)
+
+
