@@ -1,0 +1,33 @@
+/* External CSS */
+body {
+    font-family: Poppins, sans-serif;
+    margin: 0;
+    padding: 20px;
+    background-color: #f4f4f4;
+}
+.Content {
+    max-width: 800px;
+    margin: auto;
+    background: #fff;
+    padding: 20px;
+    border: 2px solid red;
+}
+h1, h2 {
+    color: #333;
+}
+p {
+    line-height: 1.6;
+}
+.contact-info {
+    margin-bottom: 20px;
+}
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin-bottom: 20px;
+}
+ul {
+    list-style-type: square;
+    padding-left: 20px;
+}
