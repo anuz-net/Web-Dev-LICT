@@ -1,0 +1,15 @@
+/* External CSS */
+body {
+    font-family: Poppins, sans-serif;
+    margin: 0;
+    padding: 50px;
+    background-color: #87b16c;
+}
+.form{
+    max-width: 250px;
+    margin: auto;
+    background: #fff;
+    padding: 50px;
+    border: 2px solid rgb(0, 0, 0);
+
+}
