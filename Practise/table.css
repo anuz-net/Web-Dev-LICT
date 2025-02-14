@@ -1,0 +1,28 @@
+*{
+    font-family: Poppins, Sans-Serif;
+}
+table{
+    border: 1px solid black;
+    border-collapse: collapse;
+    width: 100%;
+
+
+}
+table,table th, table td{
+    border-radius: 20px;
+}
+table th, table td{
+    padding: 8px;
+}
+.row1{
+    background-color: #fc6806;
+    color: white;
+}
+.row2{
+    background-color: #eddfff;
+    color: rgb(0, 0, 0);
+}
+.row4{
+    background-color: #f7f7f7;
+    color: rgb(0, 0, 0);
+}
