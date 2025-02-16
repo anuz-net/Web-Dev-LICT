@@ -1,0 +1,41 @@
+
+body {
+    font-family: Poppins, sans-serif;
+    margin: 0;
+    padding: 50px;
+    background-color: #87b16c;
+}
+form {
+    max-width: 250px;
+    margin: auto;
+    background: #fff;
+    padding: 50px;
+    border: 2px solid rgb(0, 0, 0);
+}
+
+label {
+    display: block;
+    margin-bottom: 10px;
+}
+
+input[type="text"],
+input[type="number"],
+input[type="email"] {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 1px solid rgb(0, 0, 0);
+}
+
+input[type="radio"] {
+    margin-right: 10px;
+}
+
+button[type="submit"] {
+    background-color: #4CAF50;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+}
