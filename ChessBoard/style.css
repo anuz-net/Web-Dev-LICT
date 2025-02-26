@@ -1,0 +1,22 @@
+.board{
+    display: flex;
+    flex-wrap: wrap;
+    width: 80vh;
+    height: 80vh;
+    border: 1px solid black;	
+    /* margin: 0px auto; */
+}
+.square{
+    width: 12.5%;
+    height: 12.5%;
+    display: flex;
+    /* justify-content: center;
+    align-items: center; */
+    
+}
+.black{
+    background-color: rgb(8, 107, 255);
+}
+.white{
+    background-color: rgb(186, 230, 255);
+}
