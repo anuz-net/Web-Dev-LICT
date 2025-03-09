@@ -1,0 +1,59 @@
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 50px;
+    width: 100%;
+    height: 10vh
+
+}
+header nav .logo{
+    display: flex;
+    height: 100px;
+    width: 100px;
+}
+header nav .logo img{
+    height: 100%;
+    width: 100%;
+}
+header nav ul{
+    display: flex;
+    align-items: center;
+}
+header nav ul li{
+    list-style: none;
+    /* text-decoration: none; */
+    margin: 0 10px;
+}
+header nav ul li a{
+    text-decoration: none;
+    color: #2600ff;
+}
+header nav ul li a:hover{
+    color: #ff0000;
+}
+header nav ul li a:active{
+    color: #ff0000;
+}
+header nav ul li a:visited{
+    color: #ae00ff;
+}
+header nav .btn{
+    display: flex;
+    width: 100%;
+    height: 100%;
+    justify-content: center;
+    align-items: center;
+}
+header nav .btn a{
+    text-decoration: none;
+    color: #ffffff;
+    text-align: center;
+    width: 100px;
+    height: 40px;
+    background-color: #2f00ff;
+    border-radius: 5px;
+}
+header nav .btn a .btn1{
+    padding: 20px;
+}
