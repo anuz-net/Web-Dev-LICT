@@ -1,53 +1,63 @@
+body {
+    background-image: url(images/background.png);
+}
 
-nav{
+nav {
     width: 100%;
     height: 100px;
     display: flex;
-    justify-content:space-between;
+    justify-content: space-evenly;
     align-items: center;
     /* background-color: aquamarine; */
-   
+
 
 }
-header nav .logo{
+
+header nav .logo {
     display: flex;
-    height: 200px;
-    width:10% ;
+    height: 190px;
+    width: 10%;
 }
-header nav .logo img{
+
+header nav .logo img {
     height: 100%;
     width: 100%;
 }
-header nav ul{
+
+header nav ul {
     display: flex;
     align-items: center;
+    justify-content: center;
     width: 50%;
     height: 100%;
 }
-header nav ul li{
+
+header nav ul li {
     list-style: none;
-    margin: 0 20px;
+    /* margin: 0 20px; */
     /* text-decoration: none; */
     padding: 20px;
 }
-header nav ul li a{
+
+header nav ul li a {
     text-decoration: none;
-    color: #2600ff;
+    color: #ffffff;
 }
-header nav ul li a:hover{
-    color: #ff0000;
+
+header nav ul li a:hover {
+    color: #d7deff;
 }
-header nav ul li a:active{
-    color: #ff0000;
+
+header nav ul li a:active {
+    color: #83c7ff;
 }
-header nav ul li a:visited{
-    color: #ae00ff;
-}
-header nav .btn{
+
+header nav .btn {
     display: flex;
     margin: 0px 20px;
 }
-header nav .btn a{
+
+header nav .btn a {
     text-decoration: none;
     color: white;
     text-align: center;
@@ -58,6 +68,60 @@ header nav .btn a{
     border-radius: 100px;
     margin: 20px;
 }
-header nav .btn a:hover{
-    background-color: rgb(255, 0, 0);
+
+header nav .btn a:hover {
+    background-color: #ffffff00;
+    border: 2px solid #0004ff;
+}
+
+main {
+    height: 400px;
+}
+
+main .main-content {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    align-items: center;
+    justify-content: center;
+}
+
+main .main-content .heading h1 {
+    color: white;
+    text-align: center;
+    font-size: 50px;
+    line-height: 36px;
+
+}
+
+main .main-content .heading span {
+    color: white;
+    text-align: center;
+    font-weight: 800;
+    font-family: awesome;
+    font-style: italic;
+    font-size: 30px;
+}
+
+main .main-content .heading p {
+    color: white;
+    text-align: center;
+    font-size: 15px;
+    font-weight: 100;
+    /* line-height: 100px; */
+}
+
+main .main-content .heading a .btn {
+    display: flex;
+    margin: 20px 0px;
+}
+
+main .main-content .heading a .btn .btn1 {
+    text-decoration: none;
+    color: white;
+    text-align: center;
+    width: 100px;
+    height: 20px;
+    padding: 10px;
+    background-color: rgb(0, 38, 255);
 }
