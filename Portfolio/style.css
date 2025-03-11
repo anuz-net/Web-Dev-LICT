@@ -1,6 +1,8 @@
 body {
-    background-image: url(images/background.png);
+    /* background-image: url(images/background.png); */
+    background-color: #1a1a1a;
 }
+
 
 nav {
     width: 100%;
@@ -80,13 +82,16 @@ main {
 
 main .main-content {
     display: flex;
+    /* background-color: #0004ff; */
     flex-direction: column;
     height: 100%;
+    text-align: center;
     align-items: center;
+    /* align-content: center; */
     justify-content: center;
 }
 
-main .main-content .heading h1 {
+ main .main-content .heading h1 {
     color: white;
     text-align: center;
     font-size: 50px;
@@ -109,19 +114,45 @@ main .main-content .heading p {
     font-size: 15px;
     font-weight: 100;
     /* line-height: 100px; */
-}
-
-main .main-content .heading a .btn {
+ } 
+ main .main-content .heading .buttons{
     display: flex;
-    margin: 20px 0px;
+    align-items: center;
+    justify-content: center;
 }
 
-main .main-content .heading a .btn .btn1 {
+main .main-content .heading .buttons a {
+    display: flex;
+    /* margin: 20px 0px; */
+    margin: 20px 10px;
+    /* flex-direction: column; */
+} 
+
+main .main-content .heading .buttons .btn1{
     text-decoration: none;
-    color: white;
     text-align: center;
+    color: white;
     width: 100px;
     height: 20px;
     padding: 10px;
     background-color: rgb(0, 38, 255);
+    border-radius: 10px;
+} 
+main .main-content .heading .buttons .btn2{
+    text-decoration: none;
+    text-align: center;
+    color: white;
+    width: 100px;
+    height: 20px;
+    padding: 10px;
+    border: 2px solid blue;
+    border-radius: 10px;
+}
+main .main-content .heading .buttons .btn1:hover {
+    background-color: #ffffff00;
+    border: 2px solid #0004ff;
+}
+main .main-content .heading .buttons .btn2:hover {
+    background-color: #0004ff;
+    /* border: 2px solid #0004ff; */
 }
